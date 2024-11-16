@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>Edison Daily Announcements</title>
+<link>https://your-google-sheet-link</link>
+<description>Daily announcements from Edison Middle School</description>
+<language>en-us</language>
+<item>
+<title>Test</title>
+<link>https://your-google-sheet-link</link>
+<description>Test - Requested by: Zimm</description>
+<pubDate>Sat, 16 Nov 2024 16:31:06 GMT</pubDate>
+</item>
+<item>
+<title>Test 2</title>
+<link>https://your-google-sheet-link</link>
+<description>Test 2 - Requested by: Zimm</description>
+<pubDate>Sat, 16 Nov 2024 16:31:06 GMT</pubDate>
+</item>
+</channel>
+</rss>
